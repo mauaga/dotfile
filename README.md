@@ -1,2 +1,6 @@
 # dotfile
-Mettere insieme i file di configurazione...
+
+Scrivere una buona descrizione del progetto...
+
+By
+[=MauAGA=]
