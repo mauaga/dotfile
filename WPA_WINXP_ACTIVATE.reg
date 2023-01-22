@@ -1,6 +1,0 @@
-[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\WPAEvents]
-"OOBETimer"=hex:ff,d5,71,d6,8b,6a,8d,6f,d5,33,93,fd
-; Original setting:
-; "OOBETimer"=hex:eb,54,8c,c6,0e,45,17,59,55,5b,f4,30
-
-
