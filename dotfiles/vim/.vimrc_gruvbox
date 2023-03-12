@@ -1,8 +1,13 @@
 " Inserito da MauAGA per non creare i file di backup
 "
-set number
+
 set nobackup
 set nowritebackup
+set number
+set ruler
+set laststatus=2
+
+set colorcolumn=80
 
 "reserve current indent on new lines
 set autoindent
