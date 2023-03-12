@@ -1,10 +1,14 @@
 " Inserito da MauAGA per non creare i file di backup
 "
 " Inserire il numero di linea
-set number
 
 set nobackup
 set nowritebackup
+set number
+set ruler
+set laststatus=2
+
+set colorcolumn=80
 
 " Eliminare gli undo file
 set noundofile
