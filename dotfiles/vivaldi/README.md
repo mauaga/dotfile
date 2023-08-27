@@ -25,5 +25,10 @@ dentro le direcotry sopra mostrate si trovano i file con le sessioni (tabs apert
 In sostanza il path principale è: */Vivaldi/Default/Sessions* che si dipana dalla directory che contiene
 le configurazioni in ogni sistema operativo differente :-)
 
+NOTA: adesso con la gestione dei *workspaces*, la situazione sembra un pochino diversa, almeno su macOS.
+Magari no eh, ma mi sembra che i file siano più di uno, almeno sono due, un *Tabs_* e un  *Session_*.
+Non so se entrambi vanno salvati, inoltre sembra esserci un file *.bin* che si chiama con data e ora che
+sembra avere a che fare con i tab salvati.
+
 By
 [=MauAGA=]
