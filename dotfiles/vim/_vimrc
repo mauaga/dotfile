@@ -58,8 +58,11 @@ set number
 
 "
 " Mettere il file dei colori grouvbox in vimfiles directory, vedere direcotry
-" presente quì.
+" presente quÃ¬.
 "
 set background=dark
 colorscheme gruvbox
 set mouse=a
+set ruler
+set laststatus=2
+set colorcolumn=80
