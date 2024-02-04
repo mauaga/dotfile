@@ -6,4 +6,4 @@ alias ll="ls -la --color=auto"
 alias dfree="df -x squashfs"
 alias mountfs="mount -t nosquashfs,nocgroup,nsfs,tmpfs"
 alias bman="man --html=x-www-browser"
-
+alias dfconly="dfc -d -T -t -squashfs"
