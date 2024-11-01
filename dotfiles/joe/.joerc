@@ -317,7 +317,7 @@
 				sometimes it must put spacing in itself.  This
 				selects how much is inserted.
 
-	-linums			Enable line numbers on each line
+-linums			Enable line numbers on each line
 
 	-hiline			Highlight current line
 
