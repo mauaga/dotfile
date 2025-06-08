@@ -11,3 +11,7 @@ alias dfconly="dfc -d -T -t -squashfs"
 alias psrmem='ps auwxx | awk "{ sum+=\$6 } END { print sum/1024 }"'
 alias psvmem='ps auwxx | awk "{ sum+=\$5 } END { print sum/1024 }"'
 alias pscpu='ps auwxx | awk "{ sum+=\$3 } END { print sum }"'
+# mpostando questi alias si possono ottonere dei comandi comodi che danno,
+# nell'ordine: 1. Totale memoria reale RAM occupata dai processi
+#             2. Totale memoria virtuale occupata dai processi
+#             3. Percentuale di CPU usata dai processi
